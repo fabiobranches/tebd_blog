@@ -1,6 +1,6 @@
 ## Nivelamento 1 - Hibernate
   Para o primeiro Nivelamento foi realizado um programa na linguagem de programção Java, usando o banco de dados relacional MySql e o framework hibernate, que efetua um mapeamento objeto-relacional com o fim de gerenciar alunos e suas notas. A solução da equipe para esta etapa encontra-se no repositório:
-*[Repositório no Github](https://github.com/isabelatta/nivelamento_1_tebd) - Repositório com código atualizado referente ao nivelamento 1 
+* [Repositório no Github](https://github.com/isabelatta/nivelamento_1_tebd) - Repositório com código atualizado referente ao nivelamento 1 
 
 ## Nivelamento 2 - Knowage
   O segundo Nivelmento abordou a utilização do Knowage, ferramenta open source de Business Analytics. Nesta etapa a equipe consultou dados de um banco de vendas com o objetivo de criar representações gráficas destes a partir da utilização da ferramenta.
