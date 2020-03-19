@@ -13,3 +13,11 @@
 Para o nivelamento 4 foi necessário criar um router mongoDB com shards associados a ele e utilizar uma aplicação java fornecida pelo professor da disciplina que insere dados nos shards. Para testar o funcionamento do banco e suas subdivisões paramos um dos shards utilizando a ferramenta docker desktop e fizemos uma nova inserção a partir da aplicação java, tudo ocorreu como esperado.
 
 * [Criando um cluster MongoDB com ReplicaSet e Sharding com Docker](https://medium.com/@gustavo.leitao/criando-um-cluster-mongodb-com-replicaset-e-sharding-com-docker-9cb19d456b56)- Tutorial seguido para realização do nivelamento 4
+
+
+## Trabalho Final
+Nesta etapa, foi realizada a criação de um ETL para coletar os dados de um banco realacional, converte-los para o formato JSON e armazena-los.  Esta API foi consumida tanto pelo MongoDb quanto pela aplicação Mobile, em seguida os dados foram exibidos no componente ListView da aplicação desenvoldida.
+
+* [Repositório no Github](https://github.com/isabelatta/tebd_final_etl) - Repositório com código atualizado referente ao trabalho final
+
+
